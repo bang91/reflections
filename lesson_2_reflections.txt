@@ -1,0 +1,2 @@
+What happens when you initaliz a repository? what do you need to do?
+It creates the .git folder with the meta data, but does not create any commits. 
