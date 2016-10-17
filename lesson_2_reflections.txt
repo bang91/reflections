@@ -9,3 +9,7 @@ When a new version of the product is need it would be good wiht a new branch, th
 
 How do the diaframs help you visualize the branch structure?
 It helps me to understand that some commits can be unreachable if they are not on a branch. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging 2 branches is a new commit is made containing both braches by comparing them with their mutual parent and add any new a delete anything that has been deleted in just one of them. 
+Because here we can see which commit are related to which original branch. 
