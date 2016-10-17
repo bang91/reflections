@@ -6,3 +6,6 @@ By only adding the file with the changes by using 'git add "file name"'
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When a new version of the product is need it would be good wiht a new branch, this could be a new langueges, experiment with new feature ect. Branches help by only making the changes on the branch selected. Hereby making it easy to make different versions. 
+
+How do the diaframs help you visualize the branch structure?
+It helps me to understand that some commits can be unreachable if they are not on a branch. 
