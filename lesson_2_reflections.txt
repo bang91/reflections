@@ -3,3 +3,6 @@ It creates the .git folder with the meta data, but does not create any commits.
 
 How can you use the staging area to make sure you have one commit per logical change?
 By only adding the file with the changes by using 'git add "file name"'
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When a new version of the product is need it would be good wiht a new branch, this could be a new langueges, experiment with new feature ect. Branches help by only making the changes on the branch selected. Hereby making it easy to make different versions. 
